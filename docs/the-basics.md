@@ -1,4 +1,4 @@
----
+This Page is designed for Demo Purpose from Shershah College Sasaram (BCA) Department---
 id: the-basics
 title: The Basics
 sidebar_label: The Basics
